@@ -6,10 +6,13 @@ title: Eric Brasil Nepomuceno
 Doutor em História, professor da UNILAB.
 
 <div id="webaddress">
-Telefone: +55 71 988984507 | Email: <a href="mailto:ericbrasiln@protonmail.com">ericbrasiln@protonmail.com</a>
-| Homepage: <a href="https://ericbrasiln.github.io/">https://ericbrasiln.github.io/</a> | GitHub: <a href="https://github.com/ericbrasiln/">https://github.com/ericbrasiln/</a> | Orcid: <a href="https://orcid.org/0000-0001-5067-8475">0000-0001-5067-8475</a> | Currículo Lattes (BR): <a href="http://lattes.cnpq.br/6853705640900524">6853705640900524</a> 
+Telefone: +55 71 988984507<br>
+Email: <a href="mailto:ericbrasiln@protonmail.com">ericbrasiln@protonmail.com</a><br>
+Homepage: <a href="https://ericbrasiln.github.io/">https://ericbrasiln.github.io/</a><br>
+GitHub: <a href="https://github.com/ericbrasiln/">https://github.com/ericbrasiln/</a><br>
+Orcid: <a href="https://orcid.org/0000-0001-5067-8475">0000-0001-5067-8475</a><br>
+Currículo Lattes (BR): <a href="http://lattes.cnpq.br/6853705640900524">6853705640900524</a> 
 </div>
-
 
 ## Resumo
 
@@ -20,7 +23,6 @@ Editor do The Programming Historian. Pesquisador do Laboratório de Humanidades 
 ### Especializado em
 
 História Social da Cultura, Humanidades e História Digital, Abolição da escravidão e o Pós-Abolição no Brasil e no Caribe
-
 
 ### Principais interesses de pesquisa
 
@@ -37,7 +39,7 @@ __Doutorado em História. Universidade Federal Fluminense, UFF, Niterói, Brasil
 - Orientadora: Martha Campos Abreu
 - Co-orientador: Matthias Röhrig Assunção
 - Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico
-- 
+
 `2009-2011`
 __Mestrado em História. Universidade Federal Fluminense, UFF, Niterói, Brasil__
 
