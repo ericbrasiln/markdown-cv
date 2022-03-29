@@ -22,9 +22,9 @@ Currículo Lattes (BR): <a href="http://lattes.cnpq.br/6853705640900524">6853705
   
 ## Resumo
 
-- Professor do curso de licenciatura em História e professor do Bacharelado Interdisciplinar em Humanidades no Instituto de Humanidades e Letras da Universidade da Integração Internacional da Lusofonia Afro-brasileira (IHL-UNILAB), campus dos Malês, Bahia.
+Professor do curso de licenciatura em História e professor do Bacharelado Interdisciplinar em Humanidades no Instituto de Humanidades e Letras da Universidade da Integração Internacional da Lusofonia Afro-brasileira (IHL-UNILAB), campus dos Malês, Bahia.
 
-- Editor do The Programming Historian. Pesquisador do Laboratório de Humanidades Digitais da UFBA. Membro do GT Nacional Emancipações e Pós-­Abolição da Anpuh.
+Editor do The Programming Historian. Pesquisador do Laboratório de Humanidades Digitais da UFBA. Membro do GT Nacional Emancipações e Pós-­Abolição da Anpuh.
 
 ### Especializado em
 
@@ -36,9 +36,9 @@ Currículo Lattes (BR): <a href="http://lattes.cnpq.br/6853705640900524">6853705
 - Carnaval, Cidadania, História Transnacional, Diáspora Africana, História das Afro-Américas.
 
 ### Idiomas
-- Inglês: Compreende Bem, Fala Bem, Escreve Bem, Lê Bem 
-- Espanhol:	Compreende Razoavelmente, Lê Bem 
-- Francês: Lê Pouco 
+- Inglês: Compreende Bem, Fala Bem, Escreve Bem, Lê Bem
+- Espanhol: Compreende Razoavelmente, Lê Bem 
+- Francês: Lê Pouco 
 
 ## Formação acadêmica
 
@@ -108,12 +108,12 @@ __Avid Liquid 7.0. Centro Cultural Pinnacle Home__, Rio de Janeiro, PINNACLE HOM
 ## Atuação Profissional
 
 `2017-Atual`
-### __Universidade da Integração Internacional da Lusofonia Afro-brasileira - UNILAB__, Bahia, Brasil
+__Universidade da Integração Internacional da Lusofonia Afro-brasileira - UNILAB__, Bahia, Brasil
 
 - Professor Adjunto do curso de licenciatura em História e do Bacharelado Interdisciplinar em Humanidades. Instituto de Humanidades e Letras, campus dos Malês, Bahia.
 - Servidor público, dedicação exclusiva (40h semanais).
 
-#### Disciplinas ministradas
+**Disciplinas ministradas**
 
 - História e Imprensa: sujeitos, fontes e métodos
 - Ferramentas Digitais e a pesquisa em humanidades
@@ -124,7 +124,7 @@ __Avid Liquid 7.0. Centro Cultural Pinnacle Home__, Rio de Janeiro, PINNACLE HOM
 - O Mundo Atlântico
 - Iniciação ao Pensamento Científico: Problematizações epistemológicas
 
-#### Funções administrativas e participação em comissões e conselhos
+**Funções administrativas e participação em comissões e conselhos**
 
 `2017-Atual`
 - Membro do Núcleo Docente Estruturante (NDE) do curso de História do IHL
@@ -145,28 +145,22 @@ __Avid Liquid 7.0. Centro Cultural Pinnacle Home__, Rio de Janeiro, PINNACLE HOM
 - Membro do Comitê Gestor de Tecnologia da Informação (CGTI)
 - Membro da Comissão Permanente de Pessoal Docente (CPPD)
 
----
-
 `2018-Atual`
-### __Universidade Federal da Bahia - UFBA__, Bahia, Brasil
+__Universidade Federal da Bahia - UFBA__, Bahia, Brasil
 
 - Pesquisador do Laboratório Digital da UFBA (LABHDUFBA)
 
-#### Disciplinas ministradas
+**Disciplinas ministradas**
 
 - Ciência Social Computacional, no Programa de Pós-graduação em Ciências Sociais
 
----
-
 `2011-2017`
-### __Secretaria Municipal de Educação do Rio de Janeiro__, Rio de Janeiro, Brasil
+__Secretaria Municipal de Educação do Rio de Janeiro__, Rio de Janeiro, Brasil
 
 - Servidor Público, professor do ensino fundamental. 16 horas semanais.
 
----
-
 `2010-2014`
-### __Secretaria Estadual de Educação do Rio de Janeiro - SEEDUC/RJ__, Rio de Janeiro, Brasil
+__Secretaria Estadual de Educação do Rio de Janeiro - SEEDUC/RJ__, Rio de Janeiro, Brasil
 
 - Servidor Público, professor do ensino médio. 16 horas semanais.
 
@@ -177,50 +171,29 @@ __Avid Liquid 7.0. Centro Cultural Pinnacle Home__, Rio de Janeiro, PINNACLE HOM
 `2022-Atual`
 __Ecossistema de desinformação e propaganda computacional no aplicativo Telegram__,Universidade Federal da Bahia, Universidade da Integração Internacional da Lusofonia Afro-brasileira, Universidade Federal de Santa Catarina
 
-**Descrição**: Este projeto propõe estabelecer uma estrutura de mapeamento e análise multi-método de redes de extrema -direita no Telegram, onde recentemente observou-se um aumento no fluxo de usuários e na criação de grupos e canais. Visando monitorar possíveis atividades de propaganda computacional e operações coordenadas de influência ao longo dos próximos dois anos, o projeto combina análises computacionais baseadas na abordagem da linguística de corpus (LC) e técnicas de processamento de linguagem natural (NLP) com uma abordagem qualitativa mista de análise de discurso e etnografia online. Além de buscar a existência de instrumentos de automação para potencializar a distribuição de conteúdo no Telegram, o presente projeto inclui uma etapa complementar de análise qualitativa dos padrões semiótico-discursivos dos conteúdos circulados.
-- Integrantes: Eric Brasil Nepomuceno; Leonardo Fernandes Nascimento (Responsável);Paulo F. C. Fonseca; Leticia Maria Costa da Nóbrega Cesarino; Vítor Mussa Tavares Gomes; Rosana Moore
-- Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico-CNPq
-
 `2020-Atual`
 
 __História Digital: acervos e ferramentas digitais para pesquisa e ensino__, Universidade da Integração Internacional da Lusofonia Afro-brasileira
 
-**Descrição**: O projeto “História Digital: acervos e ferramentas digitais para pesquisa e ensino” pretende promover o debate sobre os impactos teórico-metodológicos para o ofício do historiador e do professor de história gerado pelo avanço irrefreável tanto dos acervos digitais de fontes primárias quanto das ferramentas digitais para pesquisa, escrita e ensino da disciplina. Buscamos elaborar acervos de repositórios de fontes digitais on-line disponíveis para pesquisa e refletir sobre suas implicações para História e seu ensino no Brasil, mais especificamente no curso de licenciatura em História na Unilab, campus dos Malês. Cada plano de trabalho dos bolsistas e voluntários terá como foco um determinado tipo de acervo – Hemerotecas digitais, Arquivos públicos, Bibliotecas públicas – e utilizará um conjunto de ferramentas digitais de pesquisa. Cada estudante participará de workshops e oficinas de capacitação para utilização de softwares gratuitos: a) Zotero para criação de bibliotecas públicas de referências bibliográficas (https://www.zotero.org/); b) Python 3 para executar scripts para raspar (web scraping), tabular e tornar visível os dados dos repositórios pesquisados (https://www.python.org/); c) QGIS para georreferenciar todos os dados em mapas através (https://qgis.org/pt_BR/site/index.html). Ao final, tantos as reflexões quanto o banco de dados com os acervos pesquisados, devidamente referenciados em um mapa, serão disponibilizados no portal do curso de História da Unilab/Malês para acesso público, especialmente para os discentes da instituição.
-- Integrantes: Eric Brasil Nepomuceno (Responsável); Priscila Valverde; Ana Carolina Veloso; 
-
 `2020-2021`
 __Pós-Abolição: sentidos, usos e produção acadêmica (2004-2019)__, Universidade da Integração Internacional da Lusofonia Afro-brasileira
-
-**Descrição**: Esse projeto tem como objetivo caracterizar a produção acadêmica sobre o Pós-Abolição no Brasil entre 2004 e 2019. Buscamos analisar as principais temáticas, recortes cronológicos e espaciais, assim como as instituições de ensino e as revistas acadêmicas que têm produzido e publicado pesquisas sobre esse campo de estudos no Brasil desde a publicação do artigo “O pós-abolição como problema histórico: Balanços e perspectivas” de Ana Rios e Hebe Mattos em 2004 até a Anpuh Nacional de 2019, onde o GT Emancipações e Pós-Abolição contou com o maior número de inscritos, somando os quatro simpósios temáticos vinculados a ele. Esses objetivos serão alcançados através da utilização de ferramentas digitais de pesquisa, análise e visualização de dados, produzindo reflexões historiográficos, mas também contribuindo na produção de ferramentas, scripts, dados e gráficos digitais de suporte teórico e metodológico para a pesquisa em História. Primeiramente, através de scripts escritos com a linguagem de programação R ou Python3 realizaremos a raspagem (web scraping) de duas bases de dados: 1) artigos acadêmicos de revistas de História disponibilizadas na plataforma Scielo; 2) Anais da Anpuh entre 2009 e 2019. Os dados coletados serão codificados e organizados com o Atlas.ti 8, um software de apoio à análise de dados qualitativos (computer assisted qualitative data analysis software – CAQDAS). Após a codificação, todos os artigos e papers que utilizarem o termo Pós-Abolição serão analisados e um questionário qualitativo (com o app Sphinx) será preenchido, alimentando um banco de dados. Produziremos, por conseguinte, uma avaliação historiográfica da última década sobre os usos, sentidos e amplitude do termo Pós-Abolição nas produções acadêmicas, sua presença e impacto na associação nacional de História, além de gerarmos uma biblioteca de referências, um banco de dados e um conjunto de gráficos dinâmicos para visualização, destacando as relações políticas e sociais de seus uso.
 
 `2019-2020`
 __Performances negras em carnavais de São Francisco do Conde, BA, no Pós-Abolição.__, Universidade da Integração Internacional da Lusofonia Afro-brasileira
 
-**Descrição**: Pretende-se analisar as experiências negras de mobilização social e combate ao racismo através de práticas, manifestações, instituições e associações culturais carnavalescas na cidade de São Francisco do Conde, Bahia no Pós-Abolição. Tal perspectiva busca investigar os sentidos, estratégias e dimensões de experiências afro-americanas, formadas a partir da vivência da diáspora, das múltiplas formas de racismo e racialização e da construção de identidades frente a esses contextos. Portanto, esse projeto pretende fomentar a pesquisa acadêmica de alunos/as da Unilab, Malês que objetivem analisar detalhadamente as experiências de homens e mulheres negras através do estudo de performances culturais em diálogo com os debates sobre o Pós-Abolição e lutas antirracistas.Nesse sentido, o projeto visa desenvolver e potencializar as habilidades de pesquisa de jovens estudantes da Unilab, Malês, promovendo reflexões sobre identidades, cidadania, memória, história do racismo e do antirracismo no Brasil e nas Afro-Américas. Assim como a coleta, tratamento e análise de fontes primárias, secundárias e bibliografia referente a tais debates. Ao final do plano de trabalho, os bolsistas e/ou voluntários apresentarão como resultado, além de papers e artigos científicos, a publicização das fontes produzidas e coletas de forma digital, promovendo a criação de acervos de fontes para novas pesquisas, divulgadas de forma organizada e didática no site do grupo de pesquisa História das Afro-Américas e de Afro-americanos/as (https://afroamericas.wixsite.com/site/).
-
 `2018-2019`
 __Quais Américas? Um estudo das produções de História da América Latina e Caribe no Brasil utilizando softwares de apoio a análise de dados qualitativos (CAQDAS) – entre 1991 e 2018__, Universidade da Integração Internacional da Lusofonia Afro-brasileira
-
-**Descrição**: Esse projeto tem como objetivo principal caracterizar a produção acadêmica de História da América Latina e do Caribe no Brasil entre 1991 e 2018. Num primeiro momento, buscamos analisar as principais temáticas, recortes cronológicos e espaciais, assim como as instituições de ensino e as revistas acadêmicas que têm produzido e publicado pesquisas sobre essas regiões no Brasil desde a fundação do Mercosul em 1991. Em seguida, pretendemos analisar as pesquisas sobre afro-américas no interior desse conjunto mais amplo de dados. Esses objetivos serão alcançados através da utilização dos softwares de apoio a análise de dados qualitativos (computer assisted qualitative data analysis software – CAQDAS), especialmente o R para webscraping de revistas de história da plataforma Scielo, e o Atlas.ti para a codificação e análise dos dados obtidos. Como resultado, buscamos construir um panorama detalhado das publicações sobre América Latina e Caribe, com espacial aprofundamento naquelas que versam sobre as múltiplas nuances das experiências de homens e mulheres negras nessas regiões, na forma de artigos científicos; um banco de dados público com as referências bibliográficas comentadas e codificadas para buscas por temas, região, período, entre outras entradas possíveis; e um mapa geral apresentando essas pesquisas localizadas no espaço.
 
 `2017-2019`
 __Música, raça e colonialismo no Caribe: experiências negras em Trinidad e Tobago (cc. 1900-1920)__, Universidade da Integração Internacional da Lusofonia Afro-brasileira
 
-**Descrição**: Este projeto pretende investigar as experiências de sujeitos negros na colônia britânica de Trinidad e Tobago, no Caribe, entre as décadas de 1900 e 1910, através da análise de suas mobilizações públicas, performances e formação de associações carnavalescas em contato com diferentes esferas de poder. Essa estratégia nos permite caracterizar e compreender os sentidos e possibilidades de ação de homens e mulheres negras num contexto de dominação colonial numa sociedade pós-abolição. Pretende-se analisar suas relações – de conflito e aliança – com as forças coloniais e autoridades policiais, com a imprensa, grupos dominantes e com seus pares. Através da performance carnavalesca, com suas músicas, danças, fantasias e associações – que funcionavam ao longo de todo ano – poderemos compreender os termos em disputa em torno da cidadania, das tensões raciais, do colonialismo – e suas relações de trabalho, controle e violência – assim como da modernidade presentes na sociedade de Trinidad e Tobago entre o final do século XIX e o final da Primeira Guerra Mundial. Como resultado, este projeto se propõe a disponibilizar para a comunidade acadêmica da Unilab uma bibliografia comentada acerca da cultura negra, música e performance e colonialismo no Caribe, assim como um banco de dados produzido a partir da documentação colonial e outro dos periódicos, contendo informações sobre a história social da cultura de Trinidad e Tobago, colaborando para o desenvolvimento de novas pesquisas na área de História da América – que visa ser consolidada no campus dos Malês a partir desse projeto.
-
 `2012-2016`
 __Carnavais Atlânticos: cidadania e cultura negra no pós-abolição. Rio de Janeiro e Port-of-Spain, Trinidad (1838-1920)__, Universidade Federal Fluminense
-
-**Descrição**: Esse projeto tem como objetivo principal analisar transnacionalmente experiências de mobilização negra através dos carnavais das cidades do Rio de Janeiro e de Port-of-Spain, Trinidad entre 1838 e 1920. Busco compreender a atuação de sujeitos negros em sociedades tão distintas e como elaboraram estratégias de ação pública, de organização social e de reivindicação de direitos e cidadania no Pós-Abolição, tendo o carnaval como elemento que catalisou e potencializou suas experiências. A pesquisa esteve preocupada em refletir sobre termos de cidadania e cultura negra num contexto urbano influenciado pela diáspora africana, pela abolição da escravidão e pelo racismo. Para tanto, foram utilizadas fontes diversas referentes às duas cidades. No Rio de Janeiro pesquisei os periódicos preservados na Biblioteca Nacional, a documentação policial e de outros órgãos oficiais no Arquivo Nacional, os Diários Oficiais da União, além da vasta produção de memorialistas, folcloristas e historiadores. Para Port-of-Spain, as fontes primárias analisadas foram aquelas arquivadas na British Library, no National Archives e no King&#8223;s College em Londres, Inglaterra. Assim como no Rio, memorialistas, folcloristas e a produção historiográfica foram fundamentais na pesquisa. A tese foi dividida em três partes: a primeira sobre os carnavais negros no Rio, a segunda sobre os carnavais negros de Port-of-Spain e a terceira, e conclusiva, apresenta a análise comparativa transnacional. Seu recorte cronológico respondeu ao período Pós-Abolição em cada cidade – a partir das décadas de 1840 e 1890, em Port-of-Spain e no Rio, respectivamente. Com essa estrutura, e ao final do trabalho, pude demonstrar o quanto estratégias de mobilização negra em ambas as cidades do Atlântico estiveram dialogando com variadas forças de suas sociedades – especialmente imprensa e polícia –, e produzindo caminhos de valorização, reconhecimento, autonomia, cidadania através de experiências onde o carnaval representou um papel fundamental em sua ação coletiva.
-- Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico-CNPq
 
 ### Projetos de desenvolvimento tecnológico
 
 `2018-Atual`
 __Webscraping e Humanidades Digitais: Sociologia, História e Ciência Política__, Universidade Federal da Bahia
-
-**Descrição**: O objetivo do projeto é criar ferramentas de coleta e análise de dados de redes sociais digitais, websites e repositórios de dados públicos através da articulação de: a) Linguagens de programação: R, Python, Java e PHP para webscraping e/ou data mining; b) Ferramentas de CAQDAS (computer assisted qualitative data analysis software) tais como ATLAS.ti e; c) Ferramentas de visualização de dados: Gephi, NodeXL, Netvizz.
-- Integrantes: Eric Brasil Nepomuceno; Leonardo Fernandes Nascimento (Responsável); Paulo F. C. Fonseca
 
 ## Publicações
 
@@ -234,15 +207,15 @@ __Webscraping e Humanidades Digitais: Sociologia, História e Ciência Política
 ### Artigos completos publicados em periódicos
 
 `2022`
-- Brasil, E. (2022). The Caribbean Struggle for Freedom - Freedom Roots: Histories from the Caribbean. By Laurent Dubois and Richard Lee Turits. Chapel Hill: University of North Carolina Press, 2019. Pp. 408. $35.00 cloth; $26.99 e-book. The Americas, 79(1), 141–143. [DOI](http://doi.org/10.1017/tam.2021.118). ***Revista indexada pelo SCOPUS***.
+- Brasil, E. (2022). The Caribbean Struggle for Freedom - Freedom Roots: Histories from the Caribbean. By Laurent Dubois and Richard Lee Turits. Chapel Hill: University of North Carolina Press, 2019. Pp. 408. $35.00 cloth; $26.99 e-book. *The Americas*, 79(1), 141–143. [DOI](http://doi.org/10.1017/tam.2021.118). ***Revista indexada pelo SCOPUS***.
 
 `2020`
-- BRASIL, Eric (2020),Cordões e Canboulay Bands. *ESTUDOS IBERO-AMERICANOS*, v.46, p.e33507. [DOI](https://doi.org/10.15448/1980-864X.2020.3.33507). ***Revista indexada pelo SCOPUS***. 
-- BRASIL, Eric; NASCIMENTO, L. F. (2020).História Digital: reflexões a partir da Hemeroteca Digital Brasileira e o uso de CAQDAS na reelaboração da pesquisa histórica. *ESTUDOS HISTÓRICOS*. v.33, p.196 - 219. [DOI](https://doi.org/10.1590/S2178-14942020000100011). ***Revista indexada pelo SCOPUS***.
+- BRASIL, Eric (2020),Cordões e Canboulay Bands. *Estudos Ibero-Americanos*, v.46, p.e33507. [DOI](https://doi.org/10.15448/1980-864X.2020.3.33507). ***Revista indexada pelo SCOPUS***. 
+- BRASIL, Eric; NASCIMENTO, L. F. (2020).História Digital: reflexões a partir da Hemeroteca Digital Brasileira e o uso de CAQDAS na reelaboração da pesquisa histórica. *Estudos Históricos*. v.33, p.196 - 219. [DOI](https://doi.org/10.1590/S2178-14942020000100011). ***Revista indexada pelo SCOPUS***.
 
 `2019`
 - Brasil, E., & Canelas, L. (2019). Apresentação do dossiê: Afro-Américas. *Revista Eletrônica Da ANPHLAC*, (27), 1–11. [DOI](https://doi.org/10.46752/anphlac.27.2019.3449)
-- BRASIL, Eric. (2019).O Clube Liga Africana e seu “inolvidável fundador” João Alabá: estratégias de ação política e redes de solidariedade no pós-abolição carioca (cc. 1900-1920). *CAPOEIRA - REVISTA DE HUMANIDADES E LETRAS*. v.5, p.43 - 59. [link](http://www.capoeirahumanidadeseletras.com.br/ojs-2.4.5/index.php/capoeira/article/view/207)
+- BRASIL, Eric. (2019).O Clube Liga Africana e seu “inolvidável fundador” João Alabá: estratégias de ação política e redes de solidariedade no pós-abolição carioca (cc. 1900-1920). *Capoeira - revista de humanidades e letras*. v.5, p.43 - 59. [link](http://www.capoeirahumanidadeseletras.com.br/ojs-2.4.5/index.php/capoeira/article/view/207)
 - Brasil, E. (2019). As origens dos Mardi Gras Indians de Nova Orleans em contexto atlântico. *Afro-Ásia*, (59). [DOI](https://doi.org/10.9771/aa.v0i59.35590)
 
 `2018`
@@ -252,7 +225,7 @@ __Webscraping e Humanidades Digitais: Sociologia, História e Ciência Política
 - Brasil, E. (2016). Carnaval como direito: A Revolta Canboulay de 1881, em Porto de Espanha, Trinidad. *Revista Eletrônica Da ANPHLAC*, (20), 48–77. [DOI](https://doi.org/10.46752/anphlac.20.2016.2477)
 
 `2014`
-- Brasil, E. (2014). Cucumbis Carnavalescos: Áfricas, carnaval e abolição (Rio de Janeiro, década de 1880). Afro-Ásia, (49). [DOI](https://doi.org/10.9771/aa.v0i49.21323)
+- Brasil, E. (2014). Cucumbis Carnavalescos: Áfricas, carnaval e abolição (Rio de Janeiro, década de 1880). *Afro-Ásia*, (49). [DOI](https://doi.org/10.9771/aa.v0i49.21323)
 
 `2013`
 - Nepomuceno, Eric Brasil. (2013). DIABOS ENCARNADOS: CARNAVAL E LIBERDADE NAS RUAS DO RIO DE JANEIRO (1879-1888). *Textos Escolhidos de Cultura e Arte Populares* (Online), 10(2), p.7 - 28. [DOI](http://dx.doi.org/10.12957/tecap.2013.10214)
@@ -306,68 +279,70 @@ __Webscraping e Humanidades Digitais: Sociologia, História e Ciência Política
 - Web scraping e a construção de datasets para a pesquisa histórica na era digital: aspectos técnicos, metodológicos e epistemológicos, 2021. Comunicação. III Encontro de Pesquisa em Teoria da História e História da Historiografia, Universidade Federal do Espírito Santo
 
 `2020`
-- Inteligência artificial e humanidades. Mesa Redonda no 6 º Simpósio Integrado UNIFAL-MG, 2020. 
-- Dá pra pesquisar o Caribe no Brasil? Reflexões metodológicas, 2020. Mesa Redonda. Disponível [aqui](https://www.youtube.com/watch?v=hMX8ITv40K8&t=1589s)
-- Emancipações, pós-abolição e racismo no Brasil, 2020. Mesa Redonda. Disponível [aqui](https://www.youtube.com/watch?v=NXuFrYz24IU&list=PLX52KPH23_mE5CVpEDAkKFnCvH8z2E3pS&index=8)
-- Eu, robô? por uma #históriadigital crítica no ensino e formação de professores, 2020. Mesa Redonda. Disponível [aqui](https://www.youtube.com/watch?v=y9M2NQszLNc&list=PLX52KPH23_mE5CVpEDAkKFnCvH8z2E3pS&index=10)
+- *Inteligência artificial e humanidades.* Mesa Redonda no 6 º Simpósio Integrado UNIFAL-MG, 2020. 
+- *Dá pra pesquisar o Caribe no Brasil? Reflexões metodológicas*, 2020. Mesa Redonda. Disponível [aqui](https://www.youtube.com/watch?v=hMX8ITv40K8&t=1589s)
+- *Emancipações, pós-abolição e racismo no Brasil*, 2020. Mesa Redonda. Disponível [aqui](https://www.youtube.com/watch?v=NXuFrYz24IU&list=PLX52KPH23_mE5CVpEDAkKFnCvH8z2E3pS&index=8)
+- *Eu, robô? por uma #históriadigital crítica no ensino e formação de professores*, 2020. Mesa Redonda. Disponível [aqui](https://www.youtube.com/watch?v=y9M2NQszLNc&list=PLX52KPH23_mE5CVpEDAkKFnCvH8z2E3pS&index=10)
 
 `2019`
-- Racismo, repressão e colonialismo: experiências de mulheres e homens negros em carnavais de Port-of-Spain, Trinidad e Tobago (cc. 1890-1920). Comunicação. 30º Simpósio Nacional de História: História e o Futuro da Educação no Brasil, 2019.
-- O CAMPO DAS HUMANIDADES DIGITAIS: DATAFICAÇÃO, ALGORITMOS E MÉTODOS DIGITAIS DE PESQUISA. Mesa Redonda no no Congresso da UFBA – Pesquisa, Ensino e Extensão, 2019.
-- Humanidades e cultura digital: o que muda na pesquisa do séc. XXI. Mesa Redonda no II Seminário de Pesquisa em Teoria Museológica, 2019.  
+- *Racismo, repressão e colonialismo: experiências de mulheres e homens negros em carnavais de Port-of-Spain, Trinidad e Tobago (cc. 1890-1920)*. Comunicação. 30º Simpósio Nacional de História: História e o Futuro da Educação no Brasil, 2019.
+- *O campo das humanidades digitais: dataficação, algoritmos e métodos digitais de pesquisa*. Mesa Redonda no no Congresso da UFBA – Pesquisa, Ensino e Extensão, 2019.
+- *Humanidades e cultura digital: o que muda na pesquisa do séc. XXI*. Mesa Redonda no II Seminário de Pesquisa em Teoria Museológica, 2019. 
 
 `2018`
-- Reflexões sobre as Afro-Américas: História da Diáspora Africana como história transnacional. Comunicação. Encontro do grupo de pesquisa Histórias das Afro-Américas e de afro-americanos/as, São Francisco do Conde, 2018.
+- *Reflexões sobre as Afro-Américas: História da Diáspora Africana como história transnacional.* Comunicação. Encontro do grupo de pesquisa Histórias das Afro-Américas e de afro-americanos/as, São Francisco do Conde, 2018.
 - Moderador no II Seminário Internacional Histórias do Pós-Abolição no Mundo Atlântico, Rio de Janeiro, 2018. Título do Simpósio: Indivíduos coletivos: trajetórias de homens e mulheres negras na liberdade. 
-- Estudos do pós-abolição na historiografia brasileira: potencialidades e entraves. Mesa Redonda. IV Encontro Estadual de História: ensino de história no Amazonas, democracia e desigualdades, Manaus, 2018.
-- História Digital e o Pós-Abolição: reflexões teórico-metodológicas sobre o uso de hemerotecas digitais para o estudo de trajetórias. Comunicação. IV Encontro Estadual de História: ensino de história no Amazonas, democracia e desigualdades, Manaus,2018.
-- Notas de pesquisa sobre Afro-América: Colonialismo e repressão nos carnavais de Trinidad (1900-1920). Comunicação. IX Encontro estadual de História - Anpuh/BA - História e Movimentos sociais, 2018.
-- Abolição e carnaval: performance e experiência social negra em Trinidad (1838-1877). Comunicação. XIII Encontro Internacional da Anphlac, Mariana, MG,2018. 
+- *Estudos do pós-abolição na historiografia brasileira: potencialidades e entraves*. Mesa Redonda. IV Encontro Estadual de História: ensino de história no Amazonas, democracia e desigualdades, Manaus, 2018.
+- *História Digital e o Pós-Abolição: reflexões teórico-metodológicas sobre o uso de hemerotecas digitais para o estudo de trajetórias.* Comunicação. IV Encontro Estadual de História: ensino de história no Amazonas, democracia e desigualdades, Manaus,2018.
+- *Notas de pesquisa sobre Afro-América: Colonialismo e repressão nos carnavais de Trinidad (1900-1920).* Comunicação. IX Encontro estadual de História - Anpuh/BA - História e Movimentos sociais, 2018.
+- *Abolição e carnaval: performance e experiência social negra em Trinidad (1838-1877).* Comunicação. XIII Encontro Internacional da Anphlac, Mariana, MG,2018. 
 
 `2017`
-- Cordões e Canboulay Bands: mobilizações negras e repressão em carnavais no Pós-Abolição (Rio de Janeiro e Port-of-Spain). Comunicação. Quintas Jornadas del GEALA, Buenos Aires, Argentina, 2017.
-- As efemérides das Costureiras: associativismo, relações raciais e cidadania no Pós-Abolição Carioca (décadas de 1900 e 1910). Comunicação. XXIX Simpósio Nacional de História - Anpuh/Brasil, Brasília, 2017.
+- *Cordões e Canboulay Bands: mobilizações negras e repressão em carnavais no Pós-Abolição (Rio de Janeiro e Port-of-Spain).* Comunicação. Quintas Jornadas del GEALA, Buenos Aires, Argentina, 2017.
+-* As efemérides das Costureiras: associativismo, relações raciais e cidadania no Pós-Abolição Carioca (décadas de 1900 e 1910)*. Comunicação. XXIX Simpósio Nacional de História - Anpuh/Brasil, Brasília, 2017.
 
 `2016`
-- A Corte em Festa: experiências negras em carnavais do Rio de Janeiro (1789-1888). Palestra. Festa Literária de Nova Friburgo, 2016.
-- Abaixo do Diâmetro da respeitabilidade? O carnaval Jamette e as experiências negras em Port-of-Spain, Trinidad (1838-1877). Comunicação. V Congresso Nucleas, Rio de Janeiro, 2016.
+- *A Corte em Festa: experiências negras em carnavais do Rio de Janeiro (1789-1888)*. Palestra. Festa Literária de Nova Friburgo, 2016.
+- *Abaixo do Diâmetro da respeitabilidade? O carnaval Jamette e as experiências negras em Port-of-Spain, Trinidad (1838-1877)*. Comunicação. V Congresso Nucleas, Rio de Janeiro, 2016.
 
 ### Minicursos e Workshops
 
 `2022`
-- BRASIL, Eric. Git e Github. Workshop para o Laboratório de Humanidades Digitais da UFBA, LABHDUFBA. Carga horária: 4 horas. 
+- BRASIL, Eric.* Git e Github*. Workshop para o Laboratório de Humanidades Digitais da UFBA, LABHDUFBA. Carga horária: 4 horas. 
 
 `2021`
-- BRASIL, Eric. Uma introdução ao Markdown e suas possibilidades no ensino e divulgação científica, 2021. Minicurso para a Semana de História da Unilab. Disponível [aqui](youtu.be/TtnATYla2gE) Carga horária: 4 horas. 
+- BRASIL, Eric. *Uma introdução ao Markdown e suas possibilidades no ensino e divulgação científica*, 2021. Minicurso para a Semana de História da Unilab. Disponível [aqui](youtu.be/TtnATYla2gE) Carga horária: 4 horas. 
 
 `2020`
-- BRASIL, Eric. Historiadores Rodando Python!? uma introdução, 2020. Minicurso para o Laboratório de Humanidades Digitais da UFBA, LABHDUFBA. Disponível [aqui](https://ericbrasiln.github.io/oficina-python/) Carga horária: 4 horas. 
+- BRASIL, Eric. *Historiadores Rodando Python!? uma introdução*, 2020. Minicurso para o Laboratório de Humanidades Digitais da UFBA, LABHDUFBA. Disponível [aqui](https://ericbrasiln.github.io/oficina-python/) Carga horária: 4 horas. 
 
 `2019`
-- BRASIL, Eric. Levantamento Bibliográfico e gerenciamento de referências em meio digital, 2019. Minicurso para a Semana de História da Unilab. Carga horária: 4 horas. 
+- BRASIL, Eric. *Levantamento Bibliográfico e gerenciamento de referências em meio digital*, 2019. Minicurso para a Semana de História da Unilab. Carga horária: 4 horas. 
 
 `2018`
-- BRASIL, Eric. História Digital e as possibilidades do estudo de trajetórias no Pós-Abolição, 2018. Minicurso para a Semana de História da Unilab. Carga horária: 6 horas. 
+- BRASIL, Eric. *História Digital e as possibilidades do estudo de trajetórias no Pós-Abolição*, 2018. Minicurso para a Semana de História da Unilab. Carga horária: 6 horas. 
 
 `2017`
-- BRASIL, Eric; PEREIRA, M. S. Entre Carnavais e Batuques: colonialismo e racismo no Caribe Inglês e na África Portuguesa (1881-1975), 2017. Minicurso para o Simpósio Nacional de História da ANPUH. Carga horária: 6 horas. 
+- BRASIL, Eric; PEREIRA, M. S. *Entre Carnavais e Batuques: colonialismo e racismo no Caribe Inglês e na África Portuguesa (1881-1975)*, 2017. Minicurso para o Simpósio Nacional de História da ANPUH. Carga horária: 6 horas. 
 
 `2016`
-- BRASIL, Eric; SILVA, L. S.; BARBOSA, A. T. S. P. Experiências Negras na Primeira República: cidadania, política, trajetórias e relações raciais no pós-abolição carioca e o ensino de história, 2016. Minicurso para a Semana de História Política da UERJ 6 horas.
+- BRASIL, Eric; SILVA, L. S.; BARBOSA, A. T. S. P. *Experiências Negras na Primeira República: cidadania, política, trajetórias e relações raciais no pós-abolição carioca e o ensino de história*, 2016. Minicurso para a Semana de História Política da UERJ 6 horas.
 
 ## Produção Técnica
 
 ### Programa de computador sem registro
 
+`2022`
+- BRASIL, Eric. *Anais-Anped.* [DOI](https://zenodo.org/record/6341916)
+  
 `2021`
-- BRASIL, Eric. pyHDB: Ferramenta heurística para a Hemeroteca Digital Brasileira, 2021
-- BRASIL, Eric. Resumos-anpuh CLI, 2021
-
+- BRASIL, Eric. *pyHDB: Ferramenta heurística para a Hemeroteca Digital Brasileira*, 2021. [DOI](https://zenodo.org/record/5706507)
+- BRASIL, Eric; NASCIMENTO, L. F.; ANDRADE, G. S. *ferramentas_scielo_v2*, 2021. [DOI](https://zenodo.org/record/5168728)
+- BRASIL, Eric. *Resumos-anpuh CLI*, 2021. [DOI](https://zenodo.org/record/5252128)
+ 
 `2020`
-- BRASIL, Eric; NASCIMENTO, L. F.; ANDRADE, G. S. Bot para Twitter do Laboratório de Humanidades Digitais da UFBA, 2020
-- BRASIL, Eric; NASCIMENTO, L. F.; ANDRADE, G. S. ferramentas_scielo, 2020
-- BRASIL, Eric; ANDRADE, G. S. Script Anais-Anpuh, 2020
-- BRASIL, Eric. Twitterscrapper-LABHD, 2020
+- BRASIL, Eric; NASCIMENTO, L. F.; ANDRADE, G. S. *Bot para Twitter do Laboratório de Humanidades Digitais da UFBA*, 2020
+- BRASIL, Eric; ANDRADE, G. S. *Script Anais-Anpuh*, 2020. [DOI](https://www.researchgate.net/publication/341804201_Script_Anais-Anpuh)
 
 ## Membro de corpo editorial
 
@@ -512,4 +487,4 @@ __Webscraping e Humanidades Digitais: Sociologia, História e Ciência Política
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: 29/03/2022 -->
