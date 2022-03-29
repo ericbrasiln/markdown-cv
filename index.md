@@ -14,20 +14,31 @@ Orcid: <a href="https://orcid.org/0000-0001-5067-8475">0000-0001-5067-8475</a><b
 Currículo Lattes (BR): <a href="http://lattes.cnpq.br/6853705640900524">6853705640900524</a> 
 </div>
 
+## Informações pessoais
+
+- Endereço: Avenida Cardeal da Silva, 2151, apt0 402, Rio Vermelho, Salvador, Bahia, Brasil. CEP 4195-495
+- Nascimento: 16/10/1984
+- Nacionalidade: Brasileira
+  
 ## Resumo
 
-Professor do curso de licenciatura em História e professor do Bacharelado Interdisciplinar em Humanidades no Instituto de Humanidades e Letras da Universidade da Integração Internacional da Lusofonia Afro-brasileira (IHL-UNILAB), campus dos Malês, Bahia.
+- Professor do curso de licenciatura em História e professor do Bacharelado Interdisciplinar em Humanidades no Instituto de Humanidades e Letras da Universidade da Integração Internacional da Lusofonia Afro-brasileira (IHL-UNILAB), campus dos Malês, Bahia.
 
-Editor do The Programming Historian. Pesquisador do Laboratório de Humanidades Digitais da UFBA. Membro do GT Nacional Emancipações e Pós-­Abolição da Anpuh.
+- Editor do The Programming Historian. Pesquisador do Laboratório de Humanidades Digitais da UFBA. Membro do GT Nacional Emancipações e Pós-­Abolição da Anpuh.
 
 ### Especializado em
 
-História Social da Cultura, Humanidades e História Digital, Abolição da escravidão e o Pós-Abolição no Brasil e no Caribe
+- História Social da Cultura, Humanidades e História Digital, Abolição da escravidão e o Pós-Abolição no Brasil e no Caribe
 
 ### Principais interesses de pesquisa
 
-Hemerotecas e arquivos digitais, métodos digitais de pesquisa, linguagem de programação para a pesquisa em História, web scraping.
-Carnaval, Cidadania, História Transnacional, Diáspora Africana, História das Afro-Américas, 
+- Hemerotecas e arquivos digitais, métodos digitais de pesquisa, linguagem de programação para a pesquisa em História, web scraping.
+- Carnaval, Cidadania, História Transnacional, Diáspora Africana, História das Afro-Américas.
+
+### Idiomas
+- Inglês: Compreende Bem, Fala Bem, Escreve Bem, Lê Bem 
+- Espanhol:	Compreende Razoavelmente, Lê Bem 
+- Francês: Lê Pouco 
 
 ## Formação acadêmica
 
@@ -57,7 +68,7 @@ __Licenciado e Bacharel em História. Universidade Federal Fluminense, UFF__, Ni
 
 ## Prêmios
 
-`2012`
+`2020`
 2º Lugar - Prêmio Sílvio Romero de Monografias sobre Folclore e Cultura Popular, Centro Nacional de Folclore e Cultura Popular (CNFCP/Iphan)
 
 `2017`
@@ -97,12 +108,12 @@ __Avid Liquid 7.0. Centro Cultural Pinnacle Home__, Rio de Janeiro, PINNACLE HOM
 ## Atuação Profissional
 
 `2017-Atual`
-__Universidade da Integração Internacional da Lusofonia Afro-brasileira - UNILAB__, Bahia, Brasil
+### __Universidade da Integração Internacional da Lusofonia Afro-brasileira - UNILAB__, Bahia, Brasil
 
 - Professor Adjunto do curso de licenciatura em História e do Bacharelado Interdisciplinar em Humanidades. Instituto de Humanidades e Letras, campus dos Malês, Bahia.
 - Servidor público, dedicação exclusiva (40h semanais).
 
-### Disciplinas ministradas
+#### Disciplinas ministradas
 
 - História e Imprensa: sujeitos, fontes e métodos
 - Ferramentas Digitais e a pesquisa em humanidades
@@ -113,7 +124,7 @@ __Universidade da Integração Internacional da Lusofonia Afro-brasileira - UNIL
 - O Mundo Atlântico
 - Iniciação ao Pensamento Científico: Problematizações epistemológicas
 
-### Funções administrativas e participação em comissões e conselhos
+#### Funções administrativas e participação em comissões e conselhos
 
 `2017-Atual`
 - Membro do Núcleo Docente Estruturante (NDE) do curso de História do IHL
@@ -137,25 +148,25 @@ __Universidade da Integração Internacional da Lusofonia Afro-brasileira - UNIL
 ---
 
 `2018-Atual`
-__Universidade Federal da Bahia - UFBA__, Bahia, Brasil
+### __Universidade Federal da Bahia - UFBA__, Bahia, Brasil
 
 - Pesquisador do Laboratório Digital da UFBA (LABHDUFBA)
 
-### Disciplinas ministradas
+#### Disciplinas ministradas
 
 - Ciência Social Computacional, no Programa de Pós-graduação em Ciências Sociais
 
 ---
 
 `2011-2017`
-__Secretaria Municipal de Educação do Rio de Janeiro__, Rio de Janeiro, Brasil
+### __Secretaria Municipal de Educação do Rio de Janeiro__, Rio de Janeiro, Brasil
 
 - Servidor Público, professor do ensino fundamental. 16 horas semanais.
 
 ---
 
 `2010-2014`
-__Secretaria Estadual de Educação do Rio de Janeiro - SEEDUC/RJ__, Rio de Janeiro, Brasil
+### __Secretaria Estadual de Educação do Rio de Janeiro - SEEDUC/RJ__, Rio de Janeiro, Brasil
 
 - Servidor Público, professor do ensino médio. 16 horas semanais.
 
@@ -209,8 +220,7 @@ __Carnavais Atlânticos: cidadania e cultura negra no pós-abolição. Rio de Ja
 __Webscraping e Humanidades Digitais: Sociologia, História e Ciência Política__, Universidade Federal da Bahia
 
 **Descrição**: O objetivo do projeto é criar ferramentas de coleta e análise de dados de redes sociais digitais, websites e repositórios de dados públicos através da articulação de: a) Linguagens de programação: R, Python, Java e PHP para webscraping e/ou data mining; b) Ferramentas de CAQDAS (computer assisted qualitative data analysis software) tais como ATLAS.ti e; c) Ferramentas de visualização de dados: Gephi, NodeXL, Netvizz.
-
-Integrantes: Eric Brasil Nepomuceno; Leonardo Fernandes Nascimento (Responsável); Paulo F. C. Fonseca
+- Integrantes: Eric Brasil Nepomuceno; Leonardo Fernandes Nascimento (Responsável); Paulo F. C. Fonseca
 
 ## Publicações
 
@@ -292,19 +302,35 @@ Integrantes: Eric Brasil Nepomuceno; Leonardo Fernandes Nascimento (Responsável
 
 `2021`
 - Conferencista na VII Jornada de Pesquisadores da Fundação Biblioteca Nacional, 2021. Sessão Especial - História Digital. 
-- Por uma Heurística Digital no ofício do Historiador. Comunicação.II Congresso Internacional em Humanidades Digitais - HDRio20/21
+- Por uma Heurística Digital no ofício do Historiador. Comunicação. II Congresso Internacional em Humanidades Digitais - HDRio20/21
 - Web scraping e a construção de datasets para a pesquisa histórica na era digital: aspectos técnicos, metodológicos e epistemológicos, 2021. Comunicação. III Encontro de Pesquisa em Teoria da História e História da Historiografia, Universidade Federal do Espírito Santo
 
 `2020`
-- Inteligência artificial e humanidades. Mesa Redeonda no 6 º Simpósio Integrado UNIFAL-MG, 2020. 
+- Inteligência artificial e humanidades. Mesa Redonda no 6 º Simpósio Integrado UNIFAL-MG, 2020. 
 - Dá pra pesquisar o Caribe no Brasil? Reflexões metodológicas, 2020. Mesa Redonda. Disponível [aqui](https://www.youtube.com/watch?v=hMX8ITv40K8&t=1589s)
 - Emancipações, pós-abolição e racismo no Brasil, 2020. Mesa Redonda. Disponível [aqui](https://www.youtube.com/watch?v=NXuFrYz24IU&list=PLX52KPH23_mE5CVpEDAkKFnCvH8z2E3pS&index=8)
 - Eu, robô? por uma #históriadigital crítica no ensino e formação de professores, 2020. Mesa Redonda. Disponível [aqui](https://www.youtube.com/watch?v=y9M2NQszLNc&list=PLX52KPH23_mE5CVpEDAkKFnCvH8z2E3pS&index=10)
 
 `2019`
-- Racismo, repressão e colonialismo: experiências de mulheres e homens negros em carnavais de Port-of-Spain, Trinidad e Tobago (cc. 1890-1920). COmunicação. 30º Simpósio Nacional de História: História e o Futuro da Educação no Brasil, 2019.
+- Racismo, repressão e colonialismo: experiências de mulheres e homens negros em carnavais de Port-of-Spain, Trinidad e Tobago (cc. 1890-1920). Comunicação. 30º Simpósio Nacional de História: História e o Futuro da Educação no Brasil, 2019.
 - O CAMPO DAS HUMANIDADES DIGITAIS: DATAFICAÇÃO, ALGORITMOS E MÉTODOS DIGITAIS DE PESQUISA. Mesa Redonda no no Congresso da UFBA – Pesquisa, Ensino e Extensão, 2019.
-- Humanidades e cultura digital: o que muda na pesquisa do séc. XXI. Mesa Redonda no II Seminário de Pesquisa em Teoria Museológica, 2019.   
+- Humanidades e cultura digital: o que muda na pesquisa do séc. XXI. Mesa Redonda no II Seminário de Pesquisa em Teoria Museológica, 2019.  
+
+`2018`
+- Reflexões sobre as Afro-Américas: História da Diáspora Africana como história transnacional. Comunicação. Encontro do grupo de pesquisa Histórias das Afro-Américas e de afro-americanos/as, São Francisco do Conde, 2018.
+- Moderador no II Seminário Internacional Histórias do Pós-Abolição no Mundo Atlântico, Rio de Janeiro, 2018. Título do Simpósio: Indivíduos coletivos: trajetórias de homens e mulheres negras na liberdade. 
+- Estudos do pós-abolição na historiografia brasileira: potencialidades e entraves. Mesa Redonda. IV Encontro Estadual de História: ensino de história no Amazonas, democracia e desigualdades, Manaus, 2018.
+- História Digital e o Pós-Abolição: reflexões teórico-metodológicas sobre o uso de hemerotecas digitais para o estudo de trajetórias. Comunicação. IV Encontro Estadual de História: ensino de história no Amazonas, democracia e desigualdades, Manaus,2018.
+- Notas de pesquisa sobre Afro-América: Colonialismo e repressão nos carnavais de Trinidad (1900-1920). Comunicação. IX Encontro estadual de História - Anpuh/BA - História e Movimentos sociais, 2018.
+- Abolição e carnaval: performance e experiência social negra em Trinidad (1838-1877). Comunicação. XIII Encontro Internacional da Anphlac, Mariana, MG,2018. 
+
+`2017`
+- Cordões e Canboulay Bands: mobilizações negras e repressão em carnavais no Pós-Abolição (Rio de Janeiro e Port-of-Spain). Comunicação. Quintas Jornadas del GEALA, Buenos Aires, Argentina, 2017.
+- As efemérides das Costureiras: associativismo, relações raciais e cidadania no Pós-Abolição Carioca (décadas de 1900 e 1910). Comunicação. XXIX Simpósio Nacional de História - Anpuh/Brasil, Brasília, 2017.
+
+`2016`
+- A Corte em Festa: experiências negras em carnavais do Rio de Janeiro (1789-1888). Palestra. Festa Literária de Nova Friburgo, 2016.
+- Abaixo do Diâmetro da respeitabilidade? O carnaval Jamette e as experiências negras em Port-of-Spain, Trinidad (1838-1877). Comunicação. V Congresso Nucleas, Rio de Janeiro, 2016.
 
 ### Minicursos e Workshops
 
@@ -342,6 +368,20 @@ Integrantes: Eric Brasil Nepomuceno; Leonardo Fernandes Nascimento (Responsável
 - BRASIL, Eric; NASCIMENTO, L. F.; ANDRADE, G. S. ferramentas_scielo, 2020
 - BRASIL, Eric; ANDRADE, G. S. Script Anais-Anpuh, 2020
 - BRASIL, Eric. Twitterscrapper-LABHD, 2020
+
+## Membro de corpo editorial
+
+
+`2021-Atual`
+- The Programming Historian
+- Práticas da História
+
+`2018-2020`
+- Revista Eletrônica da ANPHLAC
+
+`2012-2015`
+- Cantareira (UFF) 
+
 
 ## Orientações concluídas
 
@@ -402,8 +442,8 @@ Integrantes: Eric Brasil Nepomuceno; Leonardo Fernandes Nascimento (Responsável
 - NEPOMUCENO, Eric Brasil.; MORTARI, C.; WITTMANN, L. T. Participação em banca de Christian Gonçalves Vidal Fonseca. O Tambor que fala: narrativas de Áfricas nos enredos carnavalescos    do Rio de Janeiro (2003 a 2018), 2019. (História) Universidade do Estado de Santa Catarina
 
 `2018`
-NEPOMUCENO, Eric Brasil.; SILVA, J. R.; QUEIROS, C. A. B. Participação em banca de Camila Barbosa Monção Miranda. Ditadura Militar e Amazônia: desenvolvimentismo, representações, legitimação política e autoritarismo nas décadas de 1960 e 1970., 2018. (História) Universidade Federal do Amazonas
-NEPOMUCENO, Eric Brasil.; ALBUQUERQUE, W. R.; NEGRO, Antônio Luigi. Participação em banca de Jéssica Santos Lopes da Silva. Império das circunstâncias: carnaval e disputas políticas no Pós-Abolição (Salvador, 1890 - 1910), 2018. (História) Universidade Federal da Bahia
+- NEPOMUCENO, Eric Brasil.; SILVA, J. R.; QUEIROS, C. A. B. Participação em banca de Camila Barbosa Monção Miranda. Ditadura Militar e Amazônia: desenvolvimentismo, representações, legitimação política e autoritarismo nas décadas de 1960 e 1970., 2018. (História) Universidade Federal do Amazonas
+- NEPOMUCENO, Eric Brasil.; ALBUQUERQUE, W. R.; NEGRO, Antônio Luigi. Participação em banca de Jéssica Santos Lopes da Silva. Império das circunstâncias: carnaval e disputas políticas no Pós-Abolição (Salvador, 1890 - 1910), 2018. (História) Universidade Federal da Bahia
 
 `2017`
 - NEPOMUCENO, Eric Brasil.; ABREU, Martha; PEREIRA, L. A. M.; DANTAS, C. V. Participação em banca de Juliana da Conceição Pereira. “Os sábados dançantes no Rio de Janeiro”: clubes dançantes e moralidade na Primeira República, 2017. (História) Universidade Federal Fluminense
